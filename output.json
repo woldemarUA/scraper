@@ -1,0 +1,114 @@
+[
+    {
+        "format": "C6/5 (23 x 11 cm)\u00a0",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C6/5 (23 x 11 cm)\u00a0avec fen\u00eatre \u00e0 droite",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C5 (22.9 x 16.2 cm)",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C5 (22.9 x 16.2 cm) avec fen\u00eatre\u00a0\u00e0 droite",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C5 (22.9 x 16.2 cm) avec fen\u00eatre\u00a0\u00e0 gauche",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C4 (22.9 x 32.4\u00a0cm)",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C4 (22.9 x 32.4\u00a0cm) avec fen\u00eatre\u00a0\u00e0 droite",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    },
+    {
+        "format": "C4 (22.9 x 32.4\u00a0cm) avec fen\u00eatre\u00a0\u00e0 gauche",
+        "Papier": "Classic papier offset- Papier non couch\u00e9",
+        "Grammage": "90 g/m\u00b2",
+        "Indications d\u2019impression": "Impression sur le recto",
+        "color": "CMJN",
+        "prices": {
+            "100": "129,78\u00a0\u20ac",
+            "200": "151,96\u00a0\u20ac",
+            "500": "164,71\u00a0\u20ac",
+            "1000": "187,53\u00a0\u20ac",
+            "2000": "253,26\u00a0\u20ac"
+        }
+    }
+]

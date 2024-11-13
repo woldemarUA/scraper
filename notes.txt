@@ -1,0 +1,32 @@
+python -m scrapers.product_page_scraper
+
+    100x210/270PCKRAFT/RV/SLRFOILSUVR/PBRV/SLVENV/BAT
+
+    %2F
+
+https://www.printoclock.com/variant-url/carte-de-correspondance?optionCodes=100x210%2C350DM%2CRV%2CSLRFOILSUVR%2CPBRV%2CSLVENV%2CBAT&group=anonymous
+
+
+100x210/250CB/R/3DSUVR/NOF/BLENV/CLA
+
+
+
+https://www.printoclock.com/variant-url/carte-de-correspondance?optionCodes=100x210%2C270PCKRAFT%2CRV%2CSLRFOILSUVR%2CPBRV%2CSLVENV%2CBAT&group=anonymous
+
+
+
+https://www.printoclock.com/variant-url/carte-de-correspondance?optionCodes=100x210%2C350DM%2CR%2CSUVR%2CPMRV%2CNOENV%2CBAT&group=anonymous
+
+
+1/ Know all options for each step - navigate via tree base_url = "https://www.printoclock.com/tree-url/carte-de-correspondance  -- category name"
+2/ using obtained knowledge get the data for each available configuration https://www.printoclock.com/variant-url/cartes-de-voeux?optionCodes=1PS%2CA4-A5%2CR%2C350DM%2C3DSUVR%2CNOF%2CNOENV%2CBAT&group=anonymous
+
+
+
+https://www.printoclock.com/tree-url/cartes-de-voeux?selectionSteps%5B0%5D=1PS&selectionSteps%5B1%5D=A4-A5&selectionSteps%5B2%5D=R&selectionSteps%5B3%5D=350DM&selectionSteps%5B4%5D=3DSUVR&selectionSteps%5B5%5D=NOF&selectionSteps%5B6%5D=NOENV&selectionSteps%5B7%5D=CLA
+
+
+3CP2f0PfrpNE6r9EW2
+
+
+

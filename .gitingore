@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+scraper_env/
+venv/
+.env/
+env/
+.venv/
+
+# Python-specific dependencies
+*.egg-info/
+*.egg
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Playwright cache and state
+playwright/.cache/
+playwright/.local-chromium/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Configuration or runtime files
+*.env
+.env.local
+.env.*.local
+config.json
+*.sqlite3
+
+# Pytest and Coverage reports
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Custom JSON or configuration files (if generated)
+json_configs/
+config.json
+product_data.json
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# MyPy cache
+.mypy_cache/
+
+# Pyright cache
+.pyright/
